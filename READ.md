@@ -1,9 +1,3 @@
-# _{Application Name}_
-
-#### _{Brief description of application}, {Date of current version}_
-
-#### By _**{List of contributors}**_
-
 ## Description
 
 The goal for this repository is to create a webpage for a ficticious animal shelter. The goal is to show off everything that we know so far about HTML and CSS.
