@@ -1,3 +1,15 @@
+@ media screen and (max-width: 1000px) and (min-width: 700px) { 
+    body {
+        columns: 4;
+    }
+}
+
+@ media screen and (max-width: 480px) and (min-width: 300px) { 
+    body {
+        columns: 1;
+    }
+}
+
 h1 {
     text-align: center;
 }
